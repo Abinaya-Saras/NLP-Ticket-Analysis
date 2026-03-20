@@ -1,4 +1,4 @@
-# 🧠 NLP Project – Customer Support Ticket Analysis
+# 🧠 Customer Support Ticket Analysis - NLP
 
 ## 📌 Project Overview
 This project focuses on processing and analyzing customer support tickets using Natural Language Processing (NLP) techniques. It extracts meaningful insights from raw text data through preprocessing, visualization, and entity recognition.
